@@ -1,0 +1,528 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\0986b58a89137da42e59f64b2316536e\transformed\jetified-firebase-firestore-ktx-25.1.0\AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.navigation:navigation-common:2.8.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\dcefb36ed91ddc54b75df796fcec9d2f\transformed\navigation-common-2.8.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\275c948a295886f0978a51e68f690b5b\transformed\navigation-runtime-2.8.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\b07c43568dbc895eee3eff8426cfaebc\transformed\navigation-common-ktx-2.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\ff958d7d9c4c0a39d2b6b878bd9bb40a\transformed\navigation-runtime-ktx-2.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.8.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\43c89107bfc373ab90d8cc564dd763d1\transformed\jetified-navigation-compose-2.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.accompanist:accompanist-permissions:0.34.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\f32b881db6f39a7b002a6e8324b74554\transformed\jetified-accompanist-permissions-0.34.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.material3:material3-android:1.2.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\2f9c389392a78262836a55fecc014f16\transformed\jetified-material3-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.6.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\35ad514de3e67e9822944ec484237e70\transformed\jetified-material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\b61755b244c95efb3accf2db51c59563\transformed\jetified-material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.6.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\b01e1f91753109a3f32b795195920c64\transformed\jetified-material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\7f9109c60dbdad2d444b0f40e1f1028c\transformed\jetified-foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\6889440a6fdb344476c09ded80a3a62f\transformed\jetified-foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\6e907866ecaaf04e069898e16407f97e\transformed\jetified-animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\27d39abda980f71ab56f705f1652b308\transformed\jetified-animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\59d678e4dd0ba35129b4fbb4e7946d8f\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\ad241e71a956d235d3a33e8b4af2887f\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-firestore:25.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c1b3738038001dced8c88609a3a2c2fe\transformed\jetified-firebase-firestore-25.1.0\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\14c46243ad8ebb159fdc2a05ef236571\transformed\jetified-firebase-appcheck-interop-17.0.0\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\fc93ed5a00a14d2052eed58dc5ca964f\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\1e2813e15948bdcfc5995ee3f9965806\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\ed0d58831a2921d837cbbdb5c98dc2d6\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\7c5dce3b0c5010c369f2aec87eb6739a\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\17e0c5a3ff488cbd787eb8f33ad50016\transformed\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\91b6715806c3a2bea051ef8171fe324f\transformed\jetified-ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\9513d28c5cc8c7a84231d9e2eab059bd\transformed\jetified-ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\6812ca5aed4c518f32b4109451f6a96e\transformed\jetified-ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\0dbbe0388ea70235df2a7dbdddaff6fa\transformed\jetified-ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\ac434a65e8c714f291ca5360361c0c4e\transformed\jetified-ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\2f3a1f27092c55aaa0f3f41465e4e158\transformed\jetified-ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\b7332b6723443fb539f0b5c8b6128ede\transformed\jetified-ui-test-manifest-1.7.2\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\017a8761157216856c0637b4232b776e\transformed\jetified-ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\1b497d74c50a20d9ea68ac66d85a3bb7\transformed\jetified-runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\08b08c1736cd3e7d4ad47f4fdf39aa98\transformed\jetified-runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\88b80d11384bc65f81e2e3db5854cfc7\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\766832150d5b97b73389751ae8a37157\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\265d858a16a2becaba5e4c7842e49b17\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\1c66af11ada2a883ee1e0bcdf219d3e1\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c2ba43ebfd6bb99238581d09c815efe5\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\362c23499fc890b2ad1ba0df62eff17b\transformed\jetified-lifecycle-livedata-core-ktx-2.8.6\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\6f738f4dd8a21fb6f2ed2cb2b8c42a22\transformed\jetified-lifecycle-process-2.8.6\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e48b7184bdc5d310cd417593a6d5bef8\transformed\lifecycle-livedata-2.8.6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\6af4bd2188a8f47bf9770815aef8f84c\transformed\jetified-lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\321d19a1a0b25fb121054e4944ed811b\transformed\lifecycle-livedata-core-2.8.6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\90a9c36b0a11b12c1f447a81bb742406\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\084885b24ce0d83c6ebdda0813d8b782\transformed\lifecycle-viewmodel-2.8.6\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\908f10513b273a91238e1d48b023c63b\transformed\jetified-lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\2f96266ce0db0ce4ec90948224c30d7f\transformed\jetified-lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\157f16d6170657135ea00c62357c0b5b\transformed\jetified-lifecycle-viewmodel-ktx-2.8.6\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\42c0b4722f97cff95faf06da658c7de5\transformed\jetified-lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\5ae9e2e8ef5b0dea4450ea16fb9695f6\transformed\jetified-lifecycle-viewmodel-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\0c1b9a9158673156c459a8457e4992eb\transformed\jetified-ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\41a287c2b8178381f2192facf9aa5443\transformed\jetified-ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity-compose:1.9.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\0cc16083dd3f465099906e4f20dc9406\transformed\jetified-activity-compose-1.9.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.9.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\aecb3d3d06db9d5ff4b56117152efcfa\transformed\jetified-activity-ktx-1.9.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.9.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\1e14b73d01a3a7642750adad76b90214\transformed\jetified-activity-1.9.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\2945a3c27042b0ec3cd1b538c5357a93\transformed\jetified-autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\d85f668084cf995465146717cf1eab47\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\45c00ff135f3236f614eb4ef09ef494e\transformed\jetified-graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\087ba7e2b3962238b7ad4403e8182075\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\43f28b74dbd7027da4054c71ccc6abe8\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\256a9d444f22a234aa2ae825daef51e9\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\9e2e63586003deee6321485b6cb2a65c\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\a911c31e3ef8bfc31ba73b624ad7e6b6\transformed\jetified-timber-5.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\bbcc6417a3b1e89ec690710f86a6a8c6\transformed\jetified-annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\f9a2a12c8c59068c1d35f405e5fe60ea\transformed\jetified-firebase-components-18.0.0\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\49fc86fefcff71f7f8ed4741a6bb36d9\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\f9d004da505089c9d19ce27cb84f9921\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e16f7a9f5751458264d5c8549a18d2a4\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\782d5de38b6e3961337ed8592930c8b4\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\12c00b601a1a612f5f41414a18b3e605\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\50056602070695d68c2ea5b5b2e3e65c\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.codecrunchers-x:WebRTC-Android-Library:v1.0.32006] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\8c5fc5e2bda12c98fe3b507b18ec2ab7\transformed\jetified-WebRTC-Android-Library-v1.0.32006\AndroidManifest.xml:11:1-14:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\b4d3e226ca2fc24a03bf1bd9e6a0dee5\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\cdf369fa3f6fb26f3a806d190e87af35\transformed\jetified-grpc-android-1.62.2\AndroidManifest.xml:2:1-9:12
+	package
+		INJECTED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from [com.google.firebase:firebase-firestore:25.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c1b3738038001dced8c88609a3a2c2fe\transformed\jetified-firebase-firestore-25.1.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c1b3738038001dced8c88609a3a2c2fe\transformed\jetified-firebase-firestore-25.1.0\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:6:5-64
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:6:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:9:5-12:11
+	android:required
+		ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:11:9-33
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:10:9-47
+application
+ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:15:5-37:19
+INJECTED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:15:5-37:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\0986b58a89137da42e59f64b2316536e\transformed\jetified-firebase-firestore-ktx-25.1.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\0986b58a89137da42e59f64b2316536e\transformed\jetified-firebase-firestore-ktx-25.1.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c1b3738038001dced8c88609a3a2c2fe\transformed\jetified-firebase-firestore-25.1.0\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c1b3738038001dced8c88609a3a2c2fe\transformed\jetified-firebase-firestore-25.1.0\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\14c46243ad8ebb159fdc2a05ef236571\transformed\jetified-firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\14c46243ad8ebb159fdc2a05ef236571\transformed\jetified-firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\1e2813e15948bdcfc5995ee3f9965806\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\1e2813e15948bdcfc5995ee3f9965806\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\ed0d58831a2921d837cbbdb5c98dc2d6\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\ed0d58831a2921d837cbbdb5c98dc2d6\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\7c5dce3b0c5010c369f2aec87eb6739a\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\7c5dce3b0c5010c369f2aec87eb6739a\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\17e0c5a3ff488cbd787eb8f33ad50016\transformed\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\17e0c5a3ff488cbd787eb8f33ad50016\transformed\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\b7332b6723443fb539f0b5c8b6128ede\transformed\jetified-ui-test-manifest-1.7.2\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\b7332b6723443fb539f0b5c8b6128ede\transformed\jetified-ui-test-manifest-1.7.2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\88b80d11384bc65f81e2e3db5854cfc7\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\88b80d11384bc65f81e2e3db5854cfc7\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\766832150d5b97b73389751ae8a37157\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\766832150d5b97b73389751ae8a37157\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c2ba43ebfd6bb99238581d09c815efe5\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c2ba43ebfd6bb99238581d09c815efe5\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\6f738f4dd8a21fb6f2ed2cb2b8c42a22\transformed\jetified-lifecycle-process-2.8.6\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\6f738f4dd8a21fb6f2ed2cb2b8c42a22\transformed\jetified-lifecycle-process-2.8.6\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\41a287c2b8178381f2192facf9aa5443\transformed\jetified-ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\41a287c2b8178381f2192facf9aa5443\transformed\jetified-ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\43f28b74dbd7027da4054c71ccc6abe8\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\43f28b74dbd7027da4054c71ccc6abe8\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\a911c31e3ef8bfc31ba73b624ad7e6b6\transformed\jetified-timber-5.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\a911c31e3ef8bfc31ba73b624ad7e6b6\transformed\jetified-timber-5.0.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\f9d004da505089c9d19ce27cb84f9921\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\f9d004da505089c9d19ce27cb84f9921\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e16f7a9f5751458264d5c8549a18d2a4\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e16f7a9f5751458264d5c8549a18d2a4\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\782d5de38b6e3961337ed8592930c8b4\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\782d5de38b6e3961337ed8592930c8b4\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\43f28b74dbd7027da4054c71ccc6abe8\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:21:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:19:9-54
+	android:roundIcon
+		ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:22:9-54
+	tools:targetApi
+		ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:25:9-29
+	android:icon
+		ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:24:9-47
+	android:dataExtractionRules
+		ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:18:9-65
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:16:9-36
+activity#com.example.webrtcapp.MainActivity
+ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:26:9-36:20
+	android:label
+		ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:29:13-45
+	android:exported
+		ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:28:13-36
+	android:theme
+		ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:30:13-51
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:27:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\0986b58a89137da42e59f64b2316536e\transformed\jetified-firebase-firestore-ktx-25.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\0986b58a89137da42e59f64b2316536e\transformed\jetified-firebase-firestore-ktx-25.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\dcefb36ed91ddc54b75df796fcec9d2f\transformed\navigation-common-2.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\dcefb36ed91ddc54b75df796fcec9d2f\transformed\navigation-common-2.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\275c948a295886f0978a51e68f690b5b\transformed\navigation-runtime-2.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\275c948a295886f0978a51e68f690b5b\transformed\navigation-runtime-2.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\b07c43568dbc895eee3eff8426cfaebc\transformed\navigation-common-ktx-2.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\b07c43568dbc895eee3eff8426cfaebc\transformed\navigation-common-ktx-2.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\ff958d7d9c4c0a39d2b6b878bd9bb40a\transformed\navigation-runtime-ktx-2.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\ff958d7d9c4c0a39d2b6b878bd9bb40a\transformed\navigation-runtime-ktx-2.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\43c89107bfc373ab90d8cc564dd763d1\transformed\jetified-navigation-compose-2.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\43c89107bfc373ab90d8cc564dd763d1\transformed\jetified-navigation-compose-2.8.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.accompanist:accompanist-permissions:0.34.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\f32b881db6f39a7b002a6e8324b74554\transformed\jetified-accompanist-permissions-0.34.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-permissions:0.34.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\f32b881db6f39a7b002a6e8324b74554\transformed\jetified-accompanist-permissions-0.34.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\2f9c389392a78262836a55fecc014f16\transformed\jetified-material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\2f9c389392a78262836a55fecc014f16\transformed\jetified-material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.6.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\35ad514de3e67e9822944ec484237e70\transformed\jetified-material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\35ad514de3e67e9822944ec484237e70\transformed\jetified-material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\b61755b244c95efb3accf2db51c59563\transformed\jetified-material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\b61755b244c95efb3accf2db51c59563\transformed\jetified-material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\b01e1f91753109a3f32b795195920c64\transformed\jetified-material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\b01e1f91753109a3f32b795195920c64\transformed\jetified-material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\7f9109c60dbdad2d444b0f40e1f1028c\transformed\jetified-foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\7f9109c60dbdad2d444b0f40e1f1028c\transformed\jetified-foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\6889440a6fdb344476c09ded80a3a62f\transformed\jetified-foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\6889440a6fdb344476c09ded80a3a62f\transformed\jetified-foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\6e907866ecaaf04e069898e16407f97e\transformed\jetified-animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\6e907866ecaaf04e069898e16407f97e\transformed\jetified-animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\27d39abda980f71ab56f705f1652b308\transformed\jetified-animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\27d39abda980f71ab56f705f1652b308\transformed\jetified-animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\59d678e4dd0ba35129b4fbb4e7946d8f\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\59d678e4dd0ba35129b4fbb4e7946d8f\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\ad241e71a956d235d3a33e8b4af2887f\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\ad241e71a956d235d3a33e8b4af2887f\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c1b3738038001dced8c88609a3a2c2fe\transformed\jetified-firebase-firestore-25.1.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c1b3738038001dced8c88609a3a2c2fe\transformed\jetified-firebase-firestore-25.1.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\14c46243ad8ebb159fdc2a05ef236571\transformed\jetified-firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\14c46243ad8ebb159fdc2a05ef236571\transformed\jetified-firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\fc93ed5a00a14d2052eed58dc5ca964f\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\fc93ed5a00a14d2052eed58dc5ca964f\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\1e2813e15948bdcfc5995ee3f9965806\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\1e2813e15948bdcfc5995ee3f9965806\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\ed0d58831a2921d837cbbdb5c98dc2d6\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\ed0d58831a2921d837cbbdb5c98dc2d6\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\7c5dce3b0c5010c369f2aec87eb6739a\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\7c5dce3b0c5010c369f2aec87eb6739a\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\17e0c5a3ff488cbd787eb8f33ad50016\transformed\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\17e0c5a3ff488cbd787eb8f33ad50016\transformed\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\91b6715806c3a2bea051ef8171fe324f\transformed\jetified-ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\91b6715806c3a2bea051ef8171fe324f\transformed\jetified-ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\9513d28c5cc8c7a84231d9e2eab059bd\transformed\jetified-ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\9513d28c5cc8c7a84231d9e2eab059bd\transformed\jetified-ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\6812ca5aed4c518f32b4109451f6a96e\transformed\jetified-ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\6812ca5aed4c518f32b4109451f6a96e\transformed\jetified-ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\0dbbe0388ea70235df2a7dbdddaff6fa\transformed\jetified-ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\0dbbe0388ea70235df2a7dbdddaff6fa\transformed\jetified-ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\ac434a65e8c714f291ca5360361c0c4e\transformed\jetified-ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\ac434a65e8c714f291ca5360361c0c4e\transformed\jetified-ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\2f3a1f27092c55aaa0f3f41465e4e158\transformed\jetified-ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\2f3a1f27092c55aaa0f3f41465e4e158\transformed\jetified-ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\b7332b6723443fb539f0b5c8b6128ede\transformed\jetified-ui-test-manifest-1.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\b7332b6723443fb539f0b5c8b6128ede\transformed\jetified-ui-test-manifest-1.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\017a8761157216856c0637b4232b776e\transformed\jetified-ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\017a8761157216856c0637b4232b776e\transformed\jetified-ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\1b497d74c50a20d9ea68ac66d85a3bb7\transformed\jetified-runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\1b497d74c50a20d9ea68ac66d85a3bb7\transformed\jetified-runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\08b08c1736cd3e7d4ad47f4fdf39aa98\transformed\jetified-runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\08b08c1736cd3e7d4ad47f4fdf39aa98\transformed\jetified-runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\88b80d11384bc65f81e2e3db5854cfc7\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\88b80d11384bc65f81e2e3db5854cfc7\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\766832150d5b97b73389751ae8a37157\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\766832150d5b97b73389751ae8a37157\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\265d858a16a2becaba5e4c7842e49b17\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\265d858a16a2becaba5e4c7842e49b17\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\1c66af11ada2a883ee1e0bcdf219d3e1\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\1c66af11ada2a883ee1e0bcdf219d3e1\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c2ba43ebfd6bb99238581d09c815efe5\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c2ba43ebfd6bb99238581d09c815efe5\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\362c23499fc890b2ad1ba0df62eff17b\transformed\jetified-lifecycle-livedata-core-ktx-2.8.6\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\362c23499fc890b2ad1ba0df62eff17b\transformed\jetified-lifecycle-livedata-core-ktx-2.8.6\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\6f738f4dd8a21fb6f2ed2cb2b8c42a22\transformed\jetified-lifecycle-process-2.8.6\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\6f738f4dd8a21fb6f2ed2cb2b8c42a22\transformed\jetified-lifecycle-process-2.8.6\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e48b7184bdc5d310cd417593a6d5bef8\transformed\lifecycle-livedata-2.8.6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e48b7184bdc5d310cd417593a6d5bef8\transformed\lifecycle-livedata-2.8.6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\6af4bd2188a8f47bf9770815aef8f84c\transformed\jetified-lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\6af4bd2188a8f47bf9770815aef8f84c\transformed\jetified-lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\321d19a1a0b25fb121054e4944ed811b\transformed\lifecycle-livedata-core-2.8.6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\321d19a1a0b25fb121054e4944ed811b\transformed\lifecycle-livedata-core-2.8.6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\90a9c36b0a11b12c1f447a81bb742406\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\90a9c36b0a11b12c1f447a81bb742406\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\084885b24ce0d83c6ebdda0813d8b782\transformed\lifecycle-viewmodel-2.8.6\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\084885b24ce0d83c6ebdda0813d8b782\transformed\lifecycle-viewmodel-2.8.6\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\908f10513b273a91238e1d48b023c63b\transformed\jetified-lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\908f10513b273a91238e1d48b023c63b\transformed\jetified-lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\2f96266ce0db0ce4ec90948224c30d7f\transformed\jetified-lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\2f96266ce0db0ce4ec90948224c30d7f\transformed\jetified-lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\157f16d6170657135ea00c62357c0b5b\transformed\jetified-lifecycle-viewmodel-ktx-2.8.6\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\157f16d6170657135ea00c62357c0b5b\transformed\jetified-lifecycle-viewmodel-ktx-2.8.6\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\42c0b4722f97cff95faf06da658c7de5\transformed\jetified-lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\42c0b4722f97cff95faf06da658c7de5\transformed\jetified-lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\5ae9e2e8ef5b0dea4450ea16fb9695f6\transformed\jetified-lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\5ae9e2e8ef5b0dea4450ea16fb9695f6\transformed\jetified-lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\0c1b9a9158673156c459a8457e4992eb\transformed\jetified-ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\0c1b9a9158673156c459a8457e4992eb\transformed\jetified-ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\41a287c2b8178381f2192facf9aa5443\transformed\jetified-ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\41a287c2b8178381f2192facf9aa5443\transformed\jetified-ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.9.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\0cc16083dd3f465099906e4f20dc9406\transformed\jetified-activity-compose-1.9.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\0cc16083dd3f465099906e4f20dc9406\transformed\jetified-activity-compose-1.9.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\aecb3d3d06db9d5ff4b56117152efcfa\transformed\jetified-activity-ktx-1.9.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\aecb3d3d06db9d5ff4b56117152efcfa\transformed\jetified-activity-ktx-1.9.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.9.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\1e14b73d01a3a7642750adad76b90214\transformed\jetified-activity-1.9.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\1e14b73d01a3a7642750adad76b90214\transformed\jetified-activity-1.9.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\2945a3c27042b0ec3cd1b538c5357a93\transformed\jetified-autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\2945a3c27042b0ec3cd1b538c5357a93\transformed\jetified-autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\d85f668084cf995465146717cf1eab47\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\d85f668084cf995465146717cf1eab47\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\45c00ff135f3236f614eb4ef09ef494e\transformed\jetified-graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\45c00ff135f3236f614eb4ef09ef494e\transformed\jetified-graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\087ba7e2b3962238b7ad4403e8182075\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\087ba7e2b3962238b7ad4403e8182075\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\43f28b74dbd7027da4054c71ccc6abe8\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\43f28b74dbd7027da4054c71ccc6abe8\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\256a9d444f22a234aa2ae825daef51e9\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\256a9d444f22a234aa2ae825daef51e9\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\9e2e63586003deee6321485b6cb2a65c\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\9e2e63586003deee6321485b6cb2a65c\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\a911c31e3ef8bfc31ba73b624ad7e6b6\transformed\jetified-timber-5.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\a911c31e3ef8bfc31ba73b624ad7e6b6\transformed\jetified-timber-5.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\bbcc6417a3b1e89ec690710f86a6a8c6\transformed\jetified-annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\bbcc6417a3b1e89ec690710f86a6a8c6\transformed\jetified-annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\f9a2a12c8c59068c1d35f405e5fe60ea\transformed\jetified-firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\f9a2a12c8c59068c1d35f405e5fe60ea\transformed\jetified-firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\49fc86fefcff71f7f8ed4741a6bb36d9\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\49fc86fefcff71f7f8ed4741a6bb36d9\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\f9d004da505089c9d19ce27cb84f9921\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\f9d004da505089c9d19ce27cb84f9921\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e16f7a9f5751458264d5c8549a18d2a4\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e16f7a9f5751458264d5c8549a18d2a4\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\782d5de38b6e3961337ed8592930c8b4\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\782d5de38b6e3961337ed8592930c8b4\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\12c00b601a1a612f5f41414a18b3e605\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\12c00b601a1a612f5f41414a18b3e605\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\50056602070695d68c2ea5b5b2e3e65c\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\50056602070695d68c2ea5b5b2e3e65c\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.codecrunchers-x:WebRTC-Android-Library:v1.0.32006] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\8c5fc5e2bda12c98fe3b507b18ec2ab7\transformed\jetified-WebRTC-Android-Library-v1.0.32006\AndroidManifest.xml:13:3-72
+MERGED from [com.github.codecrunchers-x:WebRTC-Android-Library:v1.0.32006] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\8c5fc5e2bda12c98fe3b507b18ec2ab7\transformed\jetified-WebRTC-Android-Library-v1.0.32006\AndroidManifest.xml:13:3-72
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\b4d3e226ca2fc24a03bf1bd9e6a0dee5\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\b4d3e226ca2fc24a03bf1bd9e6a0dee5\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\cdf369fa3f6fb26f3a806d190e87af35\transformed\jetified-grpc-android-1.62.2\AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\cdf369fa3f6fb26f3a806d190e87af35\transformed\jetified-grpc-android-1.62.2\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\HP\AndroidStudioProjects\WebRTCApp\app\src\main\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-firestore-ktx:25.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\0986b58a89137da42e59f64b2316536e\transformed\jetified-firebase-firestore-ktx-25.1.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c1b3738038001dced8c88609a3a2c2fe\transformed\jetified-firebase-firestore-25.1.0\AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c1b3738038001dced8c88609a3a2c2fe\transformed\jetified-firebase-firestore-25.1.0\AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\ed0d58831a2921d837cbbdb5c98dc2d6\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\ed0d58831a2921d837cbbdb5c98dc2d6\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\7c5dce3b0c5010c369f2aec87eb6739a\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\7c5dce3b0c5010c369f2aec87eb6739a\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-firestore-ktx:25.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\0986b58a89137da42e59f64b2316536e\transformed\jetified-firebase-firestore-ktx-25.1.0\AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\7c5dce3b0c5010c369f2aec87eb6739a\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\7c5dce3b0c5010c369f2aec87eb6739a\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore-ktx:25.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\0986b58a89137da42e59f64b2316536e\transformed\jetified-firebase-firestore-ktx-25.1.0\AndroidManifest.xml:10:13-84
+meta-data#com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreLegacyRegistrar
+ADDED from [com.google.firebase:firebase-firestore-ktx:25.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\0986b58a89137da42e59f64b2316536e\transformed\jetified-firebase-firestore-ktx-25.1.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore-ktx:25.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\0986b58a89137da42e59f64b2316536e\transformed\jetified-firebase-firestore-ktx-25.1.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore-ktx:25.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\0986b58a89137da42e59f64b2316536e\transformed\jetified-firebase-firestore-ktx-25.1.0\AndroidManifest.xml:13:17-129
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-firestore:25.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c1b3738038001dced8c88609a3a2c2fe\transformed\jetified-firebase-firestore-25.1.0\AndroidManifest.xml:10:5-79
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\cdf369fa3f6fb26f3a806d190e87af35\transformed\jetified-grpc-android-1.62.2\AndroidManifest.xml:7:5-79
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\cdf369fa3f6fb26f3a806d190e87af35\transformed\jetified-grpc-android-1.62.2\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c1b3738038001dced8c88609a3a2c2fe\transformed\jetified-firebase-firestore-25.1.0\AndroidManifest.xml:10:22-76
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c1b3738038001dced8c88609a3a2c2fe\transformed\jetified-firebase-firestore-25.1.0\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c1b3738038001dced8c88609a3a2c2fe\transformed\jetified-firebase-firestore-25.1.0\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c1b3738038001dced8c88609a3a2c2fe\transformed\jetified-firebase-firestore-25.1.0\AndroidManifest.xml:18:17-122
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c1b3738038001dced8c88609a3a2c2fe\transformed\jetified-firebase-firestore-25.1.0\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c1b3738038001dced8c88609a3a2c2fe\transformed\jetified-firebase-firestore-25.1.0\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.1.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c1b3738038001dced8c88609a3a2c2fe\transformed\jetified-firebase-firestore-25.1.0\AndroidManifest.xml:21:17-111
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\1e2813e15948bdcfc5995ee3f9965806\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\1e2813e15948bdcfc5995ee3f9965806\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\1e2813e15948bdcfc5995ee3f9965806\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\1e2813e15948bdcfc5995ee3f9965806\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\ed0d58831a2921d837cbbdb5c98dc2d6\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\ed0d58831a2921d837cbbdb5c98dc2d6\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\ed0d58831a2921d837cbbdb5c98dc2d6\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\7c5dce3b0c5010c369f2aec87eb6739a\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\7c5dce3b0c5010c369f2aec87eb6739a\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\7c5dce3b0c5010c369f2aec87eb6739a\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\7c5dce3b0c5010c369f2aec87eb6739a\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\7c5dce3b0c5010c369f2aec87eb6739a\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\7c5dce3b0c5010c369f2aec87eb6739a\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\7c5dce3b0c5010c369f2aec87eb6739a\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\7c5dce3b0c5010c369f2aec87eb6739a\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\7c5dce3b0c5010c369f2aec87eb6739a\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:36:17-109
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\b7332b6723443fb539f0b5c8b6128ede\transformed\jetified-ui-test-manifest-1.7.2\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\b7332b6723443fb539f0b5c8b6128ede\transformed\jetified-ui-test-manifest-1.7.2\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\b7332b6723443fb539f0b5c8b6128ede\transformed\jetified-ui-test-manifest-1.7.2\AndroidManifest.xml:24:13-63
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\766832150d5b97b73389751ae8a37157\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\766832150d5b97b73389751ae8a37157\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\766832150d5b97b73389751ae8a37157\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c2ba43ebfd6bb99238581d09c815efe5\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\6f738f4dd8a21fb6f2ed2cb2b8c42a22\transformed\jetified-lifecycle-process-2.8.6\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\6f738f4dd8a21fb6f2ed2cb2b8c42a22\transformed\jetified-lifecycle-process-2.8.6\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e16f7a9f5751458264d5c8549a18d2a4\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e16f7a9f5751458264d5c8549a18d2a4\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\782d5de38b6e3961337ed8592930c8b4\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\782d5de38b6e3961337ed8592930c8b4\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c2ba43ebfd6bb99238581d09c815efe5\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c2ba43ebfd6bb99238581d09c815efe5\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c2ba43ebfd6bb99238581d09c815efe5\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c2ba43ebfd6bb99238581d09c815efe5\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c2ba43ebfd6bb99238581d09c815efe5\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c2ba43ebfd6bb99238581d09c815efe5\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\c2ba43ebfd6bb99238581d09c815efe5\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\6f738f4dd8a21fb6f2ed2cb2b8c42a22\transformed\jetified-lifecycle-process-2.8.6\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\6f738f4dd8a21fb6f2ed2cb2b8c42a22\transformed\jetified-lifecycle-process-2.8.6\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.6] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\6f738f4dd8a21fb6f2ed2cb2b8c42a22\transformed\jetified-lifecycle-process-2.8.6\AndroidManifest.xml:30:17-78
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\41a287c2b8178381f2192facf9aa5443\transformed\jetified-ui-tooling-release\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\41a287c2b8178381f2192facf9aa5443\transformed\jetified-ui-tooling-release\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.2] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\41a287c2b8178381f2192facf9aa5443\transformed\jetified-ui-tooling-release\AndroidManifest.xml:24:13-71
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\43f28b74dbd7027da4054c71ccc6abe8\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\43f28b74dbd7027da4054c71ccc6abe8\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\43f28b74dbd7027da4054c71ccc6abe8\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.example.webrtcapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\43f28b74dbd7027da4054c71ccc6abe8\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\43f28b74dbd7027da4054c71ccc6abe8\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\43f28b74dbd7027da4054c71ccc6abe8\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\43f28b74dbd7027da4054c71ccc6abe8\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\43f28b74dbd7027da4054c71ccc6abe8\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.webrtcapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\43f28b74dbd7027da4054c71ccc6abe8\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\43f28b74dbd7027da4054c71ccc6abe8\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e16f7a9f5751458264d5c8549a18d2a4\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e16f7a9f5751458264d5c8549a18d2a4\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e16f7a9f5751458264d5c8549a18d2a4\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e16f7a9f5751458264d5c8549a18d2a4\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e16f7a9f5751458264d5c8549a18d2a4\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e16f7a9f5751458264d5c8549a18d2a4\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e16f7a9f5751458264d5c8549a18d2a4\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e16f7a9f5751458264d5c8549a18d2a4\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e16f7a9f5751458264d5c8549a18d2a4\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e16f7a9f5751458264d5c8549a18d2a4\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e16f7a9f5751458264d5c8549a18d2a4\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e16f7a9f5751458264d5c8549a18d2a4\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e16f7a9f5751458264d5c8549a18d2a4\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e16f7a9f5751458264d5c8549a18d2a4\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e16f7a9f5751458264d5c8549a18d2a4\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e16f7a9f5751458264d5c8549a18d2a4\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e16f7a9f5751458264d5c8549a18d2a4\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e16f7a9f5751458264d5c8549a18d2a4\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e16f7a9f5751458264d5c8549a18d2a4\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e16f7a9f5751458264d5c8549a18d2a4\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\HP\Desktop\BloodBankApp-master\BloodBank\caches\transforms-4\e16f7a9f5751458264d5c8549a18d2a4\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
